@@ -47,9 +47,7 @@ def upload_to_drive(filepath):
     media = MediaFileUpload(filepath, mimetype="audio/mpeg", resumable=True)
     file = service.files().create(body=metadata, media_body=media, fields="id, webViewLink, webContentLink").execute()
     file_id = file["id"]
-    # Poner permisos públicos
     service.permissions().create(fileId=file_id, body={"role": "reader", "type": "anyone"}).execute()
-    # Generar enlace de descarga directa
     return f"https://drive.google.com/uc?export=download&id={file_id}"
 
 def get_youtube_service():
@@ -87,15 +85,16 @@ programar = st.checkbox("Programar publicación en YouTube")
 
 schedule_time_utc = None
 if programar:
-    # Selección de fecha y hora por separado
-    date_selected = st.date_input("📅 Fecha de publicación (hora española)")
-    time_selected = st.time_input("⏰ Hora de publicación (hora española)")
-
-    # Combinar fecha y hora
-    schedule_time_local = datetime.combine(date_selected, time_selected)
-
-    # Convertir a UTC automáticamente considerando CET/CEST
+    # Obtener hora actual en España
     tz = pytz.timezone("Europe/Madrid")
+    now_madrid = datetime.now(tz)
+
+    # Selección de fecha y hora con valor inicial en España
+    date_selected = st.date_input("📅 Fecha de publicación (hora española)", value=now_madrid.date())
+    time_selected = st.time_input("⏰ Hora de publicación (hora española)", value=now_madrid.time())
+
+    # Combinar fecha y hora y convertir a UTC
+    schedule_time_local = datetime.combine(date_selected, time_selected)
     schedule_time_localized = tz.localize(schedule_time_local)
     schedule_time_utc = schedule_time_localized.astimezone(pytz.utc)
 
