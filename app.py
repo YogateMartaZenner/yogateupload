@@ -7,7 +7,6 @@ from oauth2client.client import flow_from_clientsecrets
 from oauth2client.tools import run_flow
 from feedgen.feed import FeedGenerator
 import os
-import json
 import pytz
 from datetime import datetime
 
@@ -85,10 +84,16 @@ video = st.file_uploader("🎥 Sube tu vídeo", type=["mp4", "mov"])
 title = st.text_input("📝 Título")
 description = st.text_area("📄 Descripción")
 programar = st.checkbox("Programar publicación en YouTube")
+
 schedule_time_utc = None
 if programar:
-    schedule_time_local = st.datetime_input("📅 Fecha y hora de publicación (hora española)")
-    
+    # Selección de fecha y hora por separado
+    date_selected = st.date_input("📅 Fecha de publicación (hora española)")
+    time_selected = st.time_input("⏰ Hora de publicación (hora española)")
+
+    # Combinar fecha y hora
+    schedule_time_local = datetime.combine(date_selected, time_selected)
+
     # Convertir a UTC automáticamente considerando CET/CEST
     tz = pytz.timezone("Europe/Madrid")
     schedule_time_localized = tz.localize(schedule_time_local)
@@ -98,6 +103,7 @@ if st.button("🚀 Publicar en todas las plataformas"):
     if not video or not title:
         st.error("Por favor, sube un vídeo y escribe un título.")
     else:
+        # Guardar vídeo temporal
         with open("temp_video.mp4", "wb") as f:
             f.write(video.getbuffer())
 
