@@ -1,122 +1,109 @@
 import streamlit as st
 from moviepy.editor import VideoFileClip
-import os
-import requests
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 from oauth2client.file import Storage
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.tools import run_flow
 from feedgen.feed import FeedGenerator
-from datetime import datetime, timezone
+import os
 
-# ---------------- Interfaz ----------------
-st.title("📺🎙️ Subida automática a YouTube, iVoox y Spotify")
+# ========== CONFIGURACIÓN ==========
+DRIVE_SCOPES = ["https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
+YT_SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
 
-uploaded_file = st.file_uploader("🎥 Sube tu video", type=["mp4", "mov", "avi"])
-title = st.text_input("Título del contenido")
-description = st.text_area("Descripción del contenido")
+# ======== FUNCIONES GOOGLE ========
 
-# Programación de publicación en YouTube
-schedule = st.checkbox("¿Programar publicación en YouTube?")
-publish_time = None
-if schedule:
-    publish_time = st.datetime_input("Fecha y hora de publicación", datetime.now())
+def get_drive_service():
+    flow = flow_from_clientsecrets("client_secret_drive.json", DRIVE_SCOPES)
+    storage = Storage("drive_credentials.json")
+    creds = storage.get()
+    if not creds or creds.invalid:
+        creds = run_flow(flow, storage)
+    return build("drive", "v3", credentials=creds)
 
-ivoox_token = st.text_input("🔑 Token iVoox", type="password")  # Token API de iVoox
+def upload_to_drive(filepath):
+    service = get_drive_service()
+    metadata = {"name": os.path.basename(filepath)}
+    media = MediaFileUpload(filepath, mimetype="audio/mpeg", resumable=True)
+    file = service.files().create(body=metadata, media_body=media, fields="id, webViewLink, webContentLink").execute()
+    file_id = file["id"]
+    # hacer público
+    service.permissions().create(fileId=file_id, body={"role": "reader", "type": "anyone"}).execute()
+    return f"https://drive.google.com/uc?export=download&id={file_id}"
 
-if uploaded_file and st.button("🚀 Subir a todas las plataformas"):
+def get_youtube_service():
+    flow = flow_from_clientsecrets("client_secret.json", YT_SCOPES)
+    storage = Storage("yt_credentials.json")
+    creds = storage.get()
+    if not creds or creds.invalid:
+        creds = run_flow(flow, storage)
+    return build("youtube", "v3", credentials=creds)
 
-    try:
-        # --- Guardar video temporal ---
-        video_path = f"temp_{uploaded_file.name}"
-        with open(video_path, "wb") as f:
-            f.write(uploaded_file.getbuffer())
-        st.progress(10)
-        st.info("✅ Video guardado temporalmente.")
+def upload_to_youtube(video_path, title, description, schedule_time=None):
+    youtube = get_youtube_service()
+    body = {
+        "snippet": {"title": title, "description": description},
+        "status": {"privacyStatus": "private" if schedule_time else "public"},
+    }
+    if schedule_time:
+        body["status"]["publishAt"] = schedule_time.astimezone().isoformat()
+    request = youtube.videos().insert(
+        part="snippet,status",
+        body=body,
+        media_body=MediaFileUpload(video_path)
+    )
+    return request.execute()
 
-        # --- Extraer audio ---
-        st.info("🎵 Extrayendo audio...")
-        clip = VideoFileClip(video_path)
-        audio_path = video_path.split('.')[0] + ".mp3"
-        clip.audio.write_audiofile(audio_path)
-        st.success("🎵 Audio extraído correctamente.")
-        st.progress(30)
+# ========== APP STREAMLIT ==========
 
-        # --- Subida a YouTube ---
-        st.info("📺 Subiendo a YouTube...")
-        SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
-        flow = flow_from_clientsecrets("client_secret.json", scope=SCOPES)
-        storage = Storage("credentials.json")
-        creds = storage.get()
-        if not creds or creds.invalid:
-            creds = run_flow(flow, storage)
+st.title("📢 Publicador Automático a YouTube, iVoox y Spotify")
 
-        youtube = build("youtube", "v3", credentials=creds)
+video = st.file_uploader("🎥 Sube tu vídeo", type=["mp4", "mov"])
+title = st.text_input("📝 Título")
+description = st.text_area("📄 Descripción")
+programar = st.checkbox("Programar publicación en YouTube")
+schedule_time = None
+if programar:
+    schedule_time = st.datetime_input("📅 Fecha y hora de publicación")
 
-        body = {
-            "snippet": {
-                "title": title,
-                "description": description,
-            },
-            "status": {
-                "privacyStatus": "private" if schedule else "public",
-            }
-        }
+if st.button("🚀 Publicar en todas las plataformas"):
+    if not video or not title:
+        st.error("Por favor, sube un vídeo y escribe un título.")
+    else:
+        with open("temp_video.mp4", "wb") as f:
+            f.write(video.getbuffer())
 
-        # Programación si el usuario lo activó
-        if schedule and publish_time:
-            publish_time_utc = publish_time.astimezone(timezone.utc).isoformat()
-            body["status"]["privacyStatus"] = "private"
-            body["status"]["publishAt"] = publish_time_utc
+        st.info("🎧 Extrayendo audio...")
+        clip = VideoFileClip("temp_video.mp4")
+        clip.audio.write_audiofile("episode.mp3")
+        clip.close()
 
-        request = youtube.videos().insert(
-            part="snippet,status",
-            body=body,
-            media_body=MediaFileUpload(video_path)
-        )
-        response_youtube = request.execute()
-        st.success(f"📺 Video subido a YouTube correctamente. ID: {response_youtube['id']}")
-        st.progress(60)
+        st.info("📤 Subiendo vídeo a YouTube...")
+        yt_resp = upload_to_youtube("temp_video.mp4", title, description, schedule_time)
+        st.success(f"✅ Subido a YouTube: https://youtu.be/{yt_resp.get('id')}")
 
-        # --- Subida a iVoox ---
-        st.info("🎙️ Subiendo audio a iVoox...")
-        url_ivoox = "https://api.ivoox.com/1.0/upload/audio"
-        files = {'file': open(audio_path, 'rb')}
-        data = {'title': title, 'description': description, 'token': ivoox_token}
-        response_ivoox = requests.post(url_ivoox, files=files, data=data)
+        st.info("☁️ Subiendo audio a Google Drive...")
+        audio_url = upload_to_drive("episode.mp3")
+        st.success(f"✅ Audio disponible en Drive: {audio_url}")
 
-        if response_ivoox.status_code == 200:
-            audio_url = response_ivoox.json().get("url")
-            st.success("🎙️ Audio subido a iVoox correctamente")
-        else:
-            st.error(f"❌ Error subiendo a iVoox: {response_ivoox.text}")
-            audio_url = None
-        st.progress(80)
+        st.info("🪶 Generando feed RSS...")
+        fg = FeedGenerator()
+        fg.load_extension("podcast")
+        fg.title("Mi Podcast Automatizado")
+        fg.link(href="https://tusitio.com/feed.xml", rel="self")
+        fg.description("Podcast generado automáticamente desde Streamlit")
+        fg.language("es")
 
-        # --- Generar feed RSS para Spotify ---
-        if audio_url:
-            st.info("🔗 Generando feed RSS para Spotify...")
-            fg = FeedGenerator()
-            fg.title("Mi Podcast")
-            fg.description("Podcast publicado automáticamente desde mi app")
-            fg.link(href="https://tusitio.com/feed")
-            fg.language("es")
+        entry = fg.add_entry()
+        entry.id(audio_url)
+        entry.title(title)
+        entry.description(description)
+        entry.enclosure(audio_url, 0, "audio/mpeg")
 
-            fe = fg.add_entry()
-            fe.title(title)
-            fe.description(description)
-            fe.enclosure(audio_url, 0, "audio/mpeg")
+        fg.rss_file("feed.xml")
+        st.success("📰 RSS generado correctamente (feed.xml)")
 
-            rss_file = f"{title.replace(' ','_')}.xml"
-            fg.rss_file(rss_file)
-            st.success(f"🔗 Feed RSS generado: {rss_file} (añádelo en Spotify for Podcasters)")
-        st.progress(100)
+        st.info("🛡️ Modo seguro activado: los archivos MP3 permanecen en Google Drive.")
+        st.balloons()
 
-    finally:
-        # --- Limpiar archivos temporales ---
-        if os.path.exists(video_path):
-            os.remove(video_path)
-        if os.path.exists(audio_path):
-            os.remove(audio_path)
-        st.info("🧹 Archivos temporales eliminados.")
