@@ -41,14 +41,34 @@ def get_drive_service():
         creds = run_flow(flow, storage)
     return build("drive", "v3", credentials=creds)
 
-def upload_to_drive(filepath):
+# Obtener o crear carpeta "Podcast"
+def get_or_create_folder(folder_name="Podcast"):
     service = get_drive_service()
-    metadata = {"name": os.path.basename(filepath)}
-    media = MediaFileUpload(filepath, mimetype="audio/mpeg", resumable=True)
-    file = service.files().create(body=metadata, media_body=media, fields="id, webViewLink, webContentLink").execute()
-    file_id = file["id"]
-    service.permissions().create(fileId=file_id, body={"role": "reader", "type": "anyone"}).execute()
-    return f"https://drive.google.com/uc?export=download&id={file_id}"
+    results = service.files().list(
+        q=f"mimeType='application/vnd.google-apps.folder' and name='{folder_name}' and trashed=false",
+        spaces='drive',
+        fields="files(id, name)"
+    ).execute()
+    items = results.get('files', [])
+    if items:
+        return items[0]['id']
+    folder_metadata = {'name': folder_name, 'mimeType': 'application/vnd.google-apps.folder'}
+    folder = service.files().create(body=folder_metadata, fields='id').execute()
+    return folder['id']
+
+# Subir o actualizar archivo dentro de la carpeta Podcast
+def upload_or_update_file(filepath, file_id=None):
+    service = get_drive_service()
+    folder_id = get_or_create_folder("Podcast")
+    media = MediaFileUpload(filepath, resumable=True)
+    if file_id:
+        file = service.files().update(fileId=file_id, media_body=media).execute()
+    else:
+        file_metadata = {"name": os.path.basename(filepath), "parents": [folder_id]}
+        file = service.files().create(body=file_metadata, media_body=media, fields="id").execute()
+        file_id = file["id"]
+        service.permissions().create(fileId=file_id, body={"role": "reader", "type": "anyone"}).execute()
+    return f"https://drive.google.com/uc?export=download&id={file_id}", file_id
 
 def get_youtube_service():
     flow = flow_from_clientsecrets("client_secret.json", YT_SCOPES)
@@ -78,6 +98,10 @@ def upload_to_youtube(video_path, title, description, schedule_time=None):
 # ======================
 st.title("📢 Publicador Automático a YouTube + iVoox + Spotify")
 
+# Mantener ID del feed para actualizarlo
+if "feed_file_id" not in st.session_state:
+    st.session_state.feed_file_id = None
+
 video = st.file_uploader("🎥 Sube tu vídeo", type=["mp4", "mov"])
 title = st.text_input("📝 Título")
 description = st.text_area("📄 Descripción")
@@ -85,15 +109,10 @@ programar = st.checkbox("Programar publicación en YouTube")
 
 schedule_time_utc = None
 if programar:
-    # Obtener hora actual en España
     tz = pytz.timezone("Europe/Madrid")
     now_madrid = datetime.now(tz)
-
-    # Selección de fecha y hora con valor inicial en España
     date_selected = st.date_input("📅 Fecha de publicación (hora española)", value=now_madrid.date())
     time_selected = st.time_input("⏰ Hora de publicación (hora española)", value=now_madrid.time())
-
-    # Combinar fecha y hora y convertir a UTC
     schedule_time_local = datetime.combine(date_selected, time_selected)
     schedule_time_localized = tz.localize(schedule_time_local)
     schedule_time_utc = schedule_time_localized.astimezone(pytz.utc)
@@ -117,7 +136,7 @@ if st.button("🚀 Publicar en todas las plataformas"):
         st.success(f"✅ Subido a YouTube: https://youtu.be/{yt_resp.get('id')}")
 
         st.info("☁️ Subiendo audio a Google Drive...")
-        audio_url = upload_to_drive(audio_path)
+        audio_url, _ = upload_or_update_file(audio_path)
         st.success(f"✅ Audio disponible en Drive: {audio_url}")
 
         st.info("🪶 Generando feed RSS...")
@@ -136,6 +155,14 @@ if st.button("🚀 Publicar en todas las plataformas"):
 
         fg.rss_file("feed.xml")
         st.success("📰 RSS generado correctamente (feed.xml)")
+
+        # Subir/actualizar feed.xml en Drive
+        feed_url, feed_file_id = upload_or_update_file("feed.xml", st.session_state.feed_file_id)
+        st.session_state.feed_file_id = feed_file_id
+
+        # Mostrar URL del feed para copiar
+        st.success("✅ Feed RSS actualizado en Drive:")
+        st.text_input("🔗 Copia esta URL y pégala en Spotify/iVoox", feed_url)
 
         st.info("🛡️ Modo seguro activado: los archivos MP3 permanecen en Google Drive.")
         st.balloons()
