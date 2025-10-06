@@ -1,0 +1,28 @@
+name: Auto Upload Podcast
+
+on:
+  schedule:
+    - cron: "0 8 */2 * *"  # Cada 2 días a las 08:00 UTC
+  workflow_dispatch:       # Permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install moviepy google-api-python-client oauth2client feedgen
+
+      - name: Run upload task
+        env:
+          YOUTUBE_JSON: ${{ secrets.YOUTUBE_JSON }}
+          DRIVE_JSON: ${{ secrets.DRIVE_JSON }}
+        run: python upload_task.py
