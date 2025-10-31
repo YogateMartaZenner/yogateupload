@@ -1,44 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YOGATE - Meditaciones</title>
-    <description>YOGATE - Meditaciones - Episodios de yoga y bienestar</description>
-    <link>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/feed_ivoox.xml</link>
+    <title><![CDATA[YOGATE - Meditaciones]]></title>
+    <link>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main</link>
+    <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
-    <image>
-      <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/logo.jpeg</url>
-      <title>YOGATE - Meditaciones</title>
-      <link>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/feed_ivoox.xml</link>
-    </image>
+    <lastBuildDate>Fri, 31 Oct 2025 19:46:12 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2025 19:46:12 +0000</pubDate>
     <managingEditor>martazavila@gmail.com</managingEditor>
     <webMaster>martazavila@gmail.com</webMaster>
+    <itunes:author><![CDATA[YOGATE]]></itunes:author>
+    <itunes:owner>
+      <itunes:name><![CDATA[YOGATE]]></itunes:name>
+      <itunes:email>martazavila@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/logo.jpeg" />
+    <image>
+      <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/logo.jpeg</url>
+      <title><![CDATA[YOGATE - Meditaciones]]></title>
+      <link>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main</link>
+    </image>
+    <itunes:category text="Health & Fitness">
+      <itunes:category text="Fitness" />
+    </itunes:category>
+    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/feed_ivoox.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[test2]]></title>
       <description><![CDATA[test]]></description>
-      <pubDate>2025-10-31T19:39:15Z</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM" length="0" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</guid>
+      <pubDate>Fri, 31 Oct 2025 19:39:15 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</guid>
     </item>
     <item>
       <title><![CDATA[test]]></title>
       <description><![CDATA[test]]></description>
-      <pubDate>2025-10-31T19:25:20Z</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA" length="0" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA</guid>
+      <pubDate>Fri, 31 Oct 2025 19:25:20 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA</guid>
     </item>
     <item>
       <title><![CDATA[test]]></title>
       <description><![CDATA[test]]></description>
-      <pubDate>2025-10-31T18:36:51Z</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h" length="40903827" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</guid>
+      <pubDate>Fri, 31 Oct 2025 18:36:51 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</guid>
     </item>
     <item>
       <title><![CDATA[testf]]></title>
       <description><![CDATA[test]]></description>
-      <pubDate>2025-10-31T20:41:59Z</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im" length="40903827" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im</guid>
+      <pubDate>Fri, 31 Oct 2025 20:41:59 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im</guid>
+      <link>https://www.youtube.com/watch?v=Say01RGEnpA</link>
+    </item>
+    <item>
+      <title><![CDATA[testf]]></title>
+      <description><![CDATA[test]]></description>
+      <pubDate>Fri, 31 Oct 2025 20:46:04 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</guid>
+      <link>https://www.youtube.com/watch?v=i8dKfEkKsxQ</link>
     </item>
   </channel>
 </rss>
