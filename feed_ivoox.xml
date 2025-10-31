@@ -6,8 +6,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Fri, 31 Oct 2025 19:52:54 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Oct 2025 19:52:54 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Oct 2025 19:54:58 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2025 19:54:58 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -21,7 +21,7 @@
       <title><![CDATA[YOGATE - Meditaciones]]></title>
       <link>https://github.com/YogateMartaZenner/yogateupload</link>
     </image>
-    <itunes:category text="Health & Fitness">
+    <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Fitness" />
     </itunes:category>
     <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/feed_ivoox.xml" rel="self" type="application/rss+xml" />
