@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/gh-pages/feed_ivoox.xml" rel="self" type="application/rss+xml" />
-    <link>https://github.com/YogateMartaZenner/yogateupload</link>
+    <atom:link href="https://archive.org/download/yogate-meditaciones-feed-ivoox/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <link>https://archive.org/download/yogate-meditaciones-feed-ivoox</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 10:30:27 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Nov 2025 10:30:27 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 10:42:40 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 10:42:40 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -22,7 +22,7 @@
     <image>
       <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg</url>
       <title><![CDATA[YOGATE - Meditaciones]]></title>
-      <link>https://github.com/YogateMartaZenner/yogateupload</link>
+      <link>https://archive.org/download/yogate-meditaciones-feed-ivoox</link>
     </image>
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Fitness" />
@@ -82,6 +82,14 @@
       <link>https://www.youtube.com/watch?v=NsIr-W2vrqU</link>
       <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=16sPR87rL4QsI4uj1gQc9LNK1RHZ2G5zn" length="40903827" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16sPR87rL4QsI4uj1gQc9LNK1RHZ2G5zn</guid>
+    </item>
+    <item>
+      <title><![CDATA[tetete]]></title>
+      <description><![CDATA[etetet]]></description>
+      <pubDate>Sat, 01 Nov 2025 11:41:51 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=t4aC4_fBf3E</link>
+      <enclosure url="https://archive.org/download/yogate-meditaciones-d3ce61a2/tmp7dqe4dr9.mp3" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18ZatiSjokwk917PjgAyjO4xo8JaVTNrZ</guid>
     </item>
   </channel>
 </rss>
