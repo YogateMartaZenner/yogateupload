@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://archive.org/download/yogate-meditaciones-feed-ivoox/feed_ivoox.xml" rel="self" type="application/rss+xml" />
-    <link>https://archive.org/download/yogate-meditaciones-feed-ivoox</link>
+    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/gh-pages/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/YogateMartaZenner/yogateupload</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 10:42:40 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Nov 2025 10:42:40 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 10:53:33 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 10:53:33 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -22,42 +22,29 @@
     <image>
       <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg</url>
       <title><![CDATA[YOGATE - Meditaciones]]></title>
-      <link>https://archive.org/download/yogate-meditaciones-feed-ivoox</link>
+      <link>https://github.com/YogateMartaZenner/yogateupload</link>
     </image>
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Fitness" />
     </itunes:category>
+    <podcast:locked>no</podcast:locked>
     <item>
-      <title><![CDATA[tt]]></title>
-      <description><![CDATA[tt]]></description>
-      <pubDate>Sat, 01 Nov 2025 10:55:47 +0000</pubDate>
-      <link>https://drive.google.com/uc?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb" length="1048576" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb</guid>
+      <title><![CDATA[prueba]]></title>
+      <description><![CDATA[esto es una prueba]]></description>
+      <pubDate>Sat, 01 Nov 2025 11:30:19 +0000</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=16sPR87rL4QsI4uj1gQc9LNK1RHZ2G5zn</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=16sPR87rL4QsI4uj1gQc9LNK1RHZ2G5zn" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16sPR87rL4QsI4uj1gQc9LNK1RHZ2G5zn</guid>
+      <podcast:guid>https://drive.google.com/uc?export=download&amp;id=16sPR87rL4QsI4uj1gQc9LNK1RHZ2G5zn</podcast:guid>
     </item>
     <item>
-      <title><![CDATA[testf]]></title>
-      <description><![CDATA[test]]></description>
-      <pubDate>Fri, 31 Oct 2025 20:46:04 +0000</pubDate>
-      <link>https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD" length="1048576" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</guid>
-    </item>
-    <item>
-      <title><![CDATA[test]]></title>
-      <description><![CDATA[test]]></description>
-      <pubDate>Fri, 31 Oct 2025 18:36:51 +0000</pubDate>
-      <link>https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h" length="1048576" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</guid>
-    </item>
-    <item>
-      <title><![CDATA[test]]></title>
-      <description><![CDATA[test]]></description>
-      <pubDate>Fri, 31 Oct 2025 19:25:20 +0000</pubDate>
-      <link>https://drive.google.com/uc?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA" length="1048576" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA</guid>
+      <title><![CDATA[prueba]]></title>
+      <description><![CDATA[esto es una prueba]]></description>
+      <pubDate>Sat, 01 Nov 2025 11:07:36 +0000</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=1sDnBh31MoyzClgcXeCkjcx1Pvea-i2I0</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1sDnBh31MoyzClgcXeCkjcx1Pvea-i2I0" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sDnBh31MoyzClgcXeCkjcx1Pvea-i2I0</guid>
+      <podcast:guid>https://drive.google.com/uc?export=download&amp;id=1sDnBh31MoyzClgcXeCkjcx1Pvea-i2I0</podcast:guid>
     </item>
     <item>
       <title><![CDATA[test2]]></title>
@@ -66,30 +53,43 @@
       <link>https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</link>
       <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM" length="1048576" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</guid>
+      <podcast:guid>https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</podcast:guid>
     </item>
     <item>
-      <title><![CDATA[prueba]]></title>
-      <description><![CDATA[esto es una prueba]]></description>
-      <pubDate>Sat, 01 Nov 2025 11:07:36 +0000</pubDate>
-      <link>https://www.youtube.com/watch?v=o0k35Tk-TVg</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1sDnBh31MoyzClgcXeCkjcx1Pvea-i2I0" length="40903827" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sDnBh31MoyzClgcXeCkjcx1Pvea-i2I0</guid>
+      <title><![CDATA[test]]></title>
+      <description><![CDATA[test]]></description>
+      <pubDate>Fri, 31 Oct 2025 19:25:20 +0000</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA</guid>
+      <podcast:guid>https://drive.google.com/uc?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA</podcast:guid>
     </item>
     <item>
-      <title><![CDATA[prueba]]></title>
-      <description><![CDATA[esto es una prueba]]></description>
-      <pubDate>Sat, 01 Nov 2025 11:30:19 +0000</pubDate>
-      <link>https://www.youtube.com/watch?v=NsIr-W2vrqU</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=16sPR87rL4QsI4uj1gQc9LNK1RHZ2G5zn" length="40903827" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16sPR87rL4QsI4uj1gQc9LNK1RHZ2G5zn</guid>
+      <title><![CDATA[test]]></title>
+      <description><![CDATA[test]]></description>
+      <pubDate>Fri, 31 Oct 2025 18:36:51 +0000</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</guid>
+      <podcast:guid>https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</podcast:guid>
     </item>
     <item>
-      <title><![CDATA[tetete]]></title>
-      <description><![CDATA[etetet]]></description>
-      <pubDate>Sat, 01 Nov 2025 11:41:51 +0000</pubDate>
-      <link>https://www.youtube.com/watch?v=t4aC4_fBf3E</link>
-      <enclosure url="https://archive.org/download/yogate-meditaciones-d3ce61a2/tmp7dqe4dr9.mp3" length="40903827" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18ZatiSjokwk917PjgAyjO4xo8JaVTNrZ</guid>
+      <title><![CDATA[testf]]></title>
+      <description><![CDATA[test]]></description>
+      <pubDate>Fri, 31 Oct 2025 20:46:04 +0000</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</guid>
+      <podcast:guid>https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[tt]]></title>
+      <description><![CDATA[tt]]></description>
+      <pubDate>Sat, 01 Nov 2025 10:55:47 +0000</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb</guid>
+      <podcast:guid>https://drive.google.com/uc?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb</podcast:guid>
     </item>
   </channel>
 </rss>
