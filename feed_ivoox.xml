@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/gh-pages/feed_ivoox.xml" rel="self" type="application/rss+xml" />
     <link>https://github.com/YogateMartaZenner/yogateupload</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 09:53:35 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Nov 2025 09:53:35 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 09:55:55 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 09:55:55 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -28,28 +28,12 @@
       <itunes:category text="Fitness" />
     </itunes:category>
     <item>
-      <title><![CDATA[testf]]></title>
+      <title><![CDATA[test2]]></title>
       <description><![CDATA[test]]></description>
-      <pubDate>Fri, 31 Oct 2025 20:46:04 +0000</pubDate>
-      <link>https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD" length="40903827" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</guid>
-    </item>
-    <item>
-      <title><![CDATA[testf]]></title>
-      <description><![CDATA[test]]></description>
-      <pubDate>Fri, 31 Oct 2025 20:41:59 +0000</pubDate>
-      <link>https://drive.google.com/uc?export=download&amp;id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im" length="40903827" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im</guid>
-    </item>
-    <item>
-      <title><![CDATA[test]]></title>
-      <description><![CDATA[test]]></description>
-      <pubDate>Fri, 31 Oct 2025 18:36:51 +0000</pubDate>
-      <link>https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h" length="40903827" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</guid>
+      <pubDate>Fri, 31 Oct 2025 19:39:15 +0000</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</guid>
     </item>
     <item>
       <title><![CDATA[test]]></title>
@@ -60,12 +44,36 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1X85xtzDRBTbVVVqac133p8iW2kQm8MnA</guid>
     </item>
     <item>
-      <title><![CDATA[test2]]></title>
+      <title><![CDATA[test]]></title>
       <description><![CDATA[test]]></description>
-      <pubDate>Fri, 31 Oct 2025 19:39:15 +0000</pubDate>
-      <link>https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</link>
-      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM" length="1048576" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_8zneyyJ1GIPF1Cw33eRL9BILnC2ustM</guid>
+      <pubDate>Fri, 31 Oct 2025 18:36:51 +0000</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lnq8Vp2To83KTHRh7sOKDj86Lj3qgd4h</guid>
+    </item>
+    <item>
+      <title><![CDATA[testf]]></title>
+      <description><![CDATA[test]]></description>
+      <pubDate>Fri, 31 Oct 2025 20:41:59 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=Say01RGEnpA</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XFrIco_8T7YvTKBA1wOP6afU3wq730im</guid>
+    </item>
+    <item>
+      <title><![CDATA[testf]]></title>
+      <description><![CDATA[test]]></description>
+      <pubDate>Fri, 31 Oct 2025 20:46:04 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=i8dKfEkKsxQ</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JAbJYM5kbYRDIwf88yvxZ_1bdDqxpYBD</guid>
+    </item>
+    <item>
+      <title><![CDATA[tt]]></title>
+      <description><![CDATA[tt]]></description>
+      <pubDate>Sat, 01 Nov 2025 10:55:47 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=tIYO2Qj0nQg</link>
+      <enclosure url="https://drive.google.com/uc.mp3?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb" length="40903827" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CUP56nYQPB7nwXXtV1DEMyB7ttHqkVdb</guid>
     </item>
   </channel>
 </rss>
