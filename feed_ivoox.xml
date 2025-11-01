@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 09:15:58 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Nov 2025 09:15:58 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 09:20:00 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 09:20:00 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -16,7 +16,7 @@
       <itunes:name><![CDATA[YOGATE]]></itunes:name>
       <itunes:email>martazavila@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:summary><![CDATA[Episodios de meditación y bienestar por YOGATE.]]></itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg" />
     <image>
