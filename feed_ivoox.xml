@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Mon, 17 Nov 2025 20:54:55 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Nov 2025 20:54:55 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 17:34:33 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 17:34:33 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -477,9 +477,18 @@ Gracias por apoyar este contenido y compartirlo.
 #yogate #habitatuser #meditacion #aprendeameditar #meditacionguiada #meditaciononline #meditar #perdonar  #perdon #soltar #martazenner #youtube #spotify #canaldeyoutube #sentarseameditar #bienestar]]></description>
       <pubDate>Mon, 17 Nov 2025 21:54:53 +0000</pubDate>
       <link>https://www.youtube.com/watch?v=p3U9_zi74XE</link>
-      <enclosure url="https://yogate.es/Podcast/meditacion_para_soltar_y_perdonar.mp3" length="1048576" type="audio/mpeg" />
-      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_soltar_y_perdonar.mp3</guid>
-      <podcast:guid>https://yogate.es/Podcast/meditacion_para_soltar_y_perdonar.mp3</podcast:guid>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_perdonar_y_soltar.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_perdonar_y_soltar.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_perdonar_y_soltar.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditacion prueba]]></title>
+      <description><![CDATA[Meditación prueba miniatura]]></description>
+      <pubDate>Tue, 18 Nov 2025 18:34:32 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=fQ_uNFhhqVM</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_prueba.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_prueba.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_prueba.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
