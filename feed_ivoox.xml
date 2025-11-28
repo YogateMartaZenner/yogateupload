@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Tue, 18 Nov 2025 17:35:57 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Nov 2025 17:35:57 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 20:38:23 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 20:38:23 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -480,6 +480,29 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/Meditaciónparahacerfrenteaunexamen_1UmJCR9fPnJBfKrqv_VXGbDuv-iq8EJSu.mp3" length="1048576" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/Meditaciónparahacerfrenteaunexamen_1UmJCR9fPnJBfKrqv_VXGbDuv-iq8EJSu.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/Meditaciónparahacerfrenteaunexamen_1UmJCR9fPnJBfKrqv_VXGbDuv-iq8EJSu.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para encontrar la vulnerabilidad como fuerza]]></title>
+      <description><![CDATA[Esta meditación es para aceptar nuestros momentos de vulnerabilidad. Dejar de vernos en ese estado como débiles y encontrar la fuerza que tenemos en ese estado de sostenernos y continuar. 
+
+Una meditación para abrazar parte de nuestra sombra en vez de huir con ella. Con esta sesión aprenderás a aceptar aquello que eres con más consciencia y amabilidad. 
+
+Suscríbete a nuestro canal de YouTube o Spotify para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Síguenos en nuestras redes sociales para conocer más técnicas de autoconocimiento : @martazenner_yogate 
+
+Y visita nuestra web www.yogate.es para conocer todos nuestros servicios.
+
+Gracias por apoyar este contenido y compartirlo.
+
+
+
+#yogate #meditaciones #meditacionguaida #meditaciononline #pausa #break #pausade10minutos #diezminutos #meditacion #aprendeameditar #youtube #spotify #meditacionsemanal #vulnerabilidad #aceptacion #fuerza #sertumismo #valentia #coraje #amabilidad #sertu #vivirconsciente #martazenner]]></description>
+      <pubDate>Fri, 28 Nov 2025 21:38:21 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=kuW1tiRi8Jo</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_encontrar_la_vulnerabilidad_como_f.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_encontrar_la_vulnerabilidad_como_f.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_encontrar_la_vulnerabilidad_como_f.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
