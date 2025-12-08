@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 13:35:42 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Dec 2025 13:35:42 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:40:24 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 13:40:24 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -587,9 +587,25 @@ También puedes seguirnos en nuestras RRSS @martazenner_yogate
 y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar.]]></description>
       <pubDate>Mon, 08 Dec 2025 14:35:40 +0000</pubDate>
       <link>https://www.youtube.com/watch?v=Btw6_9dfWN8</link>
-      <enclosure url="https://archive.org/download/yogate-meditaciones-d33980c8/tmprii6woju.mp3" length="1048576" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/yogate-meditaciones-d33980c8/tmprii6woju.mp3" length="11714394" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_la_introspeccion_y_la_escucha_inte.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_la_introspeccion_y_la_escucha_inte.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para no abandonar los objetivos cuando caemos en el pesimismo]]></title>
+      <description><![CDATA[Meditación de 15 minutos para escuchar en los días en los que tu mente esté cansada y quiera abandonar los objetivos propuestos. Ponte esta meditación para recordar el por qué estás en este camino y qué es lo que te hizo alimentar tus ganas de avanzar. 
+
+Todos tenemos días donde el pesimismo y la incertidumbre nos gobiernan. Y es, en esos días, cuando más debemos abrazarnos. Esta meditación te ayudará a no decaer.
+
+Si te gusta nuestro contenido, suscríbete a nuestro canal de YouTube para recibir las últimas novedades. 
+
+También puedes seguirnos en nuestras RRSS @martazenner_yogate 
+y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar]]></description>
+      <pubDate>Mon, 08 Dec 2025 14:40:22 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=-EYWK-9P-oU</link>
+      <enclosure url="https://archive.org/download/yogate-meditaciones-5c46a2a8/tmpq6t1hi95.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_no_abandonar_los_objetivos_cuando_.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_no_abandonar_los_objetivos_cuando_.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
