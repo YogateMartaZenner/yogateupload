@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 13:46:47 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Dec 2025 13:46:47 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:52:04 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 13:52:04 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -619,9 +619,26 @@ También puedes seguirnos en nuestras RRSS @martazenner_yogate
 y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar]]></description>
       <pubDate>Mon, 08 Dec 2025 14:46:45 +0000</pubDate>
       <link>https://www.youtube.com/watch?v=eJDlEdw2mMA</link>
-      <enclosure url="https://archive.org/download/yogate-meditaciones-31702f62/tmpgktzeplp.mp3" length="1048576" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/yogate-meditaciones-31702f62/tmpgktzeplp.mp3" length="14395602" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_acoger_la_energia_del_solsticio_de.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_acoger_la_energia_del_solsticio_de.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para aumentar la energía en las manos para encontrar tu poder de sujeción]]></title>
+      <description><![CDATA[¿Sabía que a las manos se le hace referencia también, y se les trata, como su fueran un chakra más? Es porque en la palma de nuestras manos tenemos la capacidad de acumular energía y trabajar con ella hacia la sanación, el recogimiento y la sujeción de aquello que necesitemos. 
+
+Encuentra el poder de mantenerte equilibrad@ a través de tus manos, escuchando esta breve meditación que te ayuda a conectar con ellas y encontrar la forma de trabajar desde el chakra que redirige tu energía hacia la debilidad que ellas puedan sostener. 
+
+Recuerda guardarla en tu lista, o compartirla con aquellos que necesiten obtener unos minutos de paz. 
+
+Si te gusta nuestro contenido, suscríbete a nuestro canal o síguenos en nuestras redes sociales @martazenner_yogate. 
+ 
+Gracias por apoyar este contenido.]]></description>
+      <pubDate>Mon, 08 Dec 2025 14:52:02 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=6pCYi1-SdgE</link>
+      <enclosure url="https://archive.org/download/yogate-meditaciones-53a95b46/tmpcbkyd7g8.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_aumentar_la_energia_en_las_manos_p.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_aumentar_la_energia_en_las_manos_p.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
