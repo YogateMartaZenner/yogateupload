@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 13:26:39 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Dec 2025 13:26:39 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:30:45 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 13:30:45 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -552,9 +552,26 @@ También puedes seguirnos en nuestras RRSS @martazenner_yogate
 y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar]]></description>
       <pubDate>Mon, 08 Dec 2025 14:26:37 +0000</pubDate>
       <link>https://www.youtube.com/watch?v=Vs2kSY55zeY</link>
-      <enclosure url="https://archive.org/download/yogate-meditaciones-b1f02eb5/tmpnf7igmbi.mp3" length="1048576" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/yogate-meditaciones-b1f02eb5/tmpnf7igmbi.mp3" length="16615801" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_librarse_de_la_culpa_y_responsabil.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_librarse_de_la_culpa_y_responsabil.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Breve meditación para antes de entrar a una reunión profesional]]></title>
+      <description><![CDATA[Escucha esta breve meditación de cinco minutos y prepararte para entrar a una reunión profesional. 
+Esta meditación ayuda a disminuir los nervios y a relajar la mente otorgando el poder a tu seguridad y competencia en tu trabajo. Escúchala siempre que la necesites para darle claridad a tu mente y acoger la reunión con mayor resolución. 
+
+Tienes la preparación para ello. Confía en ti. 
+
+
+Si te gusta nuestro contenido, suscríbete a nuestro canal de YouTube para recibir las últimas novedades. 
+
+También puedes seguirnos en nuestras RRSS @martazenner_yogate y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar]]></description>
+      <pubDate>Mon, 08 Dec 2025 14:30:43 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=aojn-aQ2oIM</link>
+      <enclosure url="https://archive.org/download/yogate-meditaciones-ea21a9a5/tmpabpno0xf.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/breve_meditacion_para_antes_de_entrar_a_una_reunio.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/breve_meditacion_para_antes_de_entrar_a_una_reunio.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
