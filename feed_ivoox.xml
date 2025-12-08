@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208142018/feed_ivoox.xml" rel="self" type="application/rss+xml" />
-    <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208142018</link>
+    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/gh-pages/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/YogateMartaZenner/yogateupload</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 13:20:46 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Dec 2025 13:20:46 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:26:39 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 13:26:39 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -22,7 +22,7 @@
     <image>
       <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg</url>
       <title><![CDATA[YOGATE - Meditaciones]]></title>
-      <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208142018</link>
+      <link>https://github.com/YogateMartaZenner/yogateupload</link>
     </image>
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Fitness" />
@@ -540,6 +540,21 @@ También puedes seguirnos en nuestras RRSS @martazenner_yogate y visitar nuestra
       <enclosure url="https://archive.org/download/yogate-meditaciones-f84b8113/tmpkol1j57b.mp3" length="12661071" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_desapego_a_los_sentimientos_y_desp.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_desapego_a_los_sentimientos_y_desp.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para librarse de la culpa y responsabilidades ajenas]]></title>
+      <description><![CDATA[Meditación para liberarse de la culpa y de la responsabilidades ajenas que no nos corresponden y poder descargar pesos innecesarios en nuestro camino. 
+Aprende, con esta meditación de diecisiete minutos, a saber diferenciar entre el apoyo a una persona o cargar con responsabilidades ajenas que te roban la energía para pone el foco en las tuyas. 
+
+Si te gusta nuestro contenido, suscríbete a nuestro canal de YouTube para recibir las últimas novedades. 
+
+También puedes seguirnos en nuestras RRSS @martazenner_yogate 
+y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar]]></description>
+      <pubDate>Mon, 08 Dec 2025 14:26:37 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=Vs2kSY55zeY</link>
+      <enclosure url="https://archive.org/download/yogate-meditaciones-b1f02eb5/tmpnf7igmbi.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_librarse_de_la_culpa_y_responsabil.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_librarse_de_la_culpa_y_responsabil.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
