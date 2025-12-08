@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 13:30:45 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Dec 2025 13:30:45 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:35:42 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 13:35:42 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -569,9 +569,27 @@ Si te gusta nuestro contenido, suscríbete a nuestro canal de YouTube para recib
 También puedes seguirnos en nuestras RRSS @martazenner_yogate y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar]]></description>
       <pubDate>Mon, 08 Dec 2025 14:30:43 +0000</pubDate>
       <link>https://www.youtube.com/watch?v=aojn-aQ2oIM</link>
-      <enclosure url="https://archive.org/download/yogate-meditaciones-ea21a9a5/tmpabpno0xf.mp3" length="1048576" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/yogate-meditaciones-ea21a9a5/tmpabpno0xf.mp3" length="5473009" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/breve_meditacion_para_antes_de_entrar_a_una_reunio.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/breve_meditacion_para_antes_de_entrar_a_una_reunio.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para la introspección y la escucha interna: "¿qué soy?"]]></title>
+      <description><![CDATA[Meditación de doce minutos donde trabajar desde la introspección y la escucha interna que nace al acallar cuerpo y mente y poder dar respuesta a esa gran pregunta, "¿Qué soy?"
+
+La pura consciencia es un espectador neutro. 
+
+¿Qué soy? La respuesta está más allá de la identificación física, mental, emocional, de nuestros valores... Todo eso es una identificación con la materia, con las etiquetas que tenemos en nuestra sociedad. 
+
+Si te gusta nuestro contenido, suscríbete a nuestro canal de YouTube para recibir las últimas novedades. 
+
+También puedes seguirnos en nuestras RRSS @martazenner_yogate 
+y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar.]]></description>
+      <pubDate>Mon, 08 Dec 2025 14:35:40 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=Btw6_9dfWN8</link>
+      <enclosure url="https://archive.org/download/yogate-meditaciones-d33980c8/tmprii6woju.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_la_introspeccion_y_la_escucha_inte.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_la_introspeccion_y_la_escucha_inte.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
