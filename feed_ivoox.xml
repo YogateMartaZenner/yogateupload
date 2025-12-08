@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://archive.org/download/yogate-meditaciones-feed-ivoox-20251206134800/feed_ivoox.xml" rel="self" type="application/rss+xml" />
-    <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251206134800</link>
+    <atom:link href="https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208140449/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208140449</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Sat, 06 Dec 2025 12:48:20 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Dec 2025 12:48:20 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:05:16 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 13:05:16 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -22,7 +22,7 @@
     <image>
       <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg</url>
       <title><![CDATA[YOGATE - Meditaciones]]></title>
-      <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251206134800</link>
+      <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208140449</link>
     </image>
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Fitness" />
@@ -491,6 +491,19 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://archive.org/download/yogate-meditaciones-e529030f/tmpmurv_7_d.mp3" length="4325711" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_bondadosa_para_antes_de_dormir_de_5_min.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_bondadosa_para_antes_de_dormir_de_5_min.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para el amor propio y alzar tu valor interior]]></title>
+      <description><![CDATA[Meditación para trabajar el amor propio desde el perdón y alzar el valor interior que nos ayuda a avanzar en el camino desde la amabilidad y apoyo a nosotros mismos. 
+
+Suscríbete al canal de Yogate en YotuTube para escuchar más meditaciones como esta. 
+
+Y si quieres estar informado/a de más novedades relacionadas con el aprendizaje de obtener un bienestar diario alineado con tu forma de vida, síguenos en www.yogate.es o en nuestras redes sociales @martazenner_yogate para estar al día de las herramientas que ofrecemos.]]></description>
+      <pubDate>Mon, 08 Dec 2025 14:03:51 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=ACrUyTqH7WU</link>
+      <enclosure url="https://archive.org/download/yogate-meditaciones-91d54a0f/tmp99b97uzb.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_el_amor_propio_y_alzar_tu_valor_in.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_el_amor_propio_y_alzar_tu_valor_in.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
