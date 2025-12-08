@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208140449/feed_ivoox.xml" rel="self" type="application/rss+xml" />
-    <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208140449</link>
+    <atom:link href="https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208141209/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208141209</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 13:05:16 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Dec 2025 13:05:16 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:12:34 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 13:12:34 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -22,7 +22,7 @@
     <image>
       <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg</url>
       <title><![CDATA[YOGATE - Meditaciones]]></title>
-      <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208140449</link>
+      <link>https://archive.org/download/yogate-meditaciones-feed-ivoox-20251208141209</link>
     </image>
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Fitness" />
@@ -501,9 +501,30 @@ Suscríbete al canal de Yogate en YotuTube para escuchar más meditaciones como 
 Y si quieres estar informado/a de más novedades relacionadas con el aprendizaje de obtener un bienestar diario alineado con tu forma de vida, síguenos en www.yogate.es o en nuestras redes sociales @martazenner_yogate para estar al día de las herramientas que ofrecemos.]]></description>
       <pubDate>Mon, 08 Dec 2025 14:03:51 +0000</pubDate>
       <link>https://www.youtube.com/watch?v=ACrUyTqH7WU</link>
-      <enclosure url="https://archive.org/download/yogate-meditaciones-91d54a0f/tmp99b97uzb.mp3" length="1048576" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/yogate-meditaciones-91d54a0f/tmp99b97uzb.mp3" length="11520878" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_el_amor_propio_y_alzar_tu_valor_in.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_el_amor_propio_y_alzar_tu_valor_in.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación de diez minutos para hacer el día y tener claridad mental]]></title>
+      <description><![CDATA[Con esta pequeña meditación de diez minutos, para realizar a primera hora de tu mañana, obtendrás un espacio de claridad mental, con el que despejar la mente y poder activarte desde una perspectiva nítida hacia los pensamientos, tareas y ocupaciones del día. 
+
+Tan sólo tienes que despertarte diez minutos antes de lo que lo estás haciendo ahora. ¿Qué son diez minutos menos de dormir? Son:
+-Calma
+-Bienestar
+-Despeje mental
+-Ánimo elevado
+
+¡Comienza tu día un poco antes y siente que el día está hecho para ti!
+
+Si te gusta nuestro contenido, suscríbete a nuestro canal de YouTube para recibir las últimas novedades. 
+
+También puedes seguirnos en nuestras RRSS @martazenner_yogate y visitar nuestra web www.yogate.es donde encontrar cursos e información relacionados con el bienestar]]></description>
+      <pubDate>Mon, 08 Dec 2025 14:11:11 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=7e4cUby6umo</link>
+      <enclosure url="https://archive.org/download/yogate-meditaciones-873bba69/tmpo1k_jlz8.mp3" length="1048576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_de_diez_minutos_para_hacer_el_dia_y_ten.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_de_diez_minutos_para_hacer_el_dia_y_ten.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
