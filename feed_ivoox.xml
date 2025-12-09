@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Tue, 09 Dec 2025 11:39:35 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Dec 2025 11:39:35 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 11:47:01 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 11:47:01 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -16,7 +16,7 @@
       <itunes:name><![CDATA[YOGATE]]></itunes:name>
       <itunes:email>martazavila@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:summary><![CDATA[YOGATE - Meditaciones: Episodios de yoga, meditación y bienestar para tu crecimiento personal. Guiados por YOGATE, encuentra la paz interior y el equilibrio en tu vida diaria.]]></itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg" />
     <image>
@@ -24,9 +24,7 @@
       <title><![CDATA[YOGATE - Meditaciones]]></title>
       <link>https://github.com/YogateMartaZenner/yogateupload</link>
     </image>
-    <itunes:category text="Health &amp; Fitness">
-      <itunes:category text="Fitness" />
-    </itunes:category>
+    <itunes:category text="Spirituality" />
     <podcast:locked>no</podcast:locked>
     <item>
       <title><![CDATA[Meditación para soltar y perdonar]]></title>
