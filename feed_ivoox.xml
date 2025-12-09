@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/refs/heads/main/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/feed_ivoox.xml" rel="self" type="application/rss+xml" />
     <link>https://github.com/YogateMartaZenner/yogateupload</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Tue, 09 Dec 2025 11:37:34 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Dec 2025 11:37:34 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 11:39:35 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 11:39:35 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
