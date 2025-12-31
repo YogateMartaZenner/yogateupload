@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Tue, 09 Dec 2025 20:34:10 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Dec 2025 20:34:10 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 10:52:29 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 10:52:29 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -653,6 +653,23 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/Meditaci%C3%B3nparahacerfrenteaunexamen_1UmJCR9fPnJBfKrqv_VXGbDuv-iq8EJSu.mp3" length="13570550" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/Meditaci%C3%B3nparahacerfrenteaunexamen_1UmJCR9fPnJBfKrqv_VXGbDuv-iq8EJSu.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/Meditaci%C3%B3nparahacerfrenteaunexamen_1UmJCR9fPnJBfKrqv_VXGbDuv-iq8EJSu.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación de respiración consciente y regulación interna]]></title>
+      <description><![CDATA[Una fantástica meditación breve para regularte internamente a través de la observación de tu respiración. 
+
+En esta sesión observamos los cambios que se producen en nuestro interior y cómo calmamos el sistema nervioso con tan sólo practicar la respiración consciente. 
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Gracias por apoyar este contenido y compartirlo.
+
+#yogate #habitatuser #meditacion #meditacionguiada #respirar #respiracion #respiracionconsciente #meditaciononline #meditaciongratuita #martazenner #meditacionconrespiracion #meditaencasa #meditacionparacalmar #calma #sistemanervioso #observacion #pazinterior]]></description>
+      <pubDate>Wed, 31 Dec 2025 11:52:27 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=NM_ZZsQCnsc</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_de_respiracion_consciente_y_regulacion_.mp3" length="16481251" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_de_respiracion_consciente_y_regulacion_.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_de_respiracion_consciente_y_regulacion_.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
