@@ -6,9 +6,9 @@
     <link>https://yogate.es</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
-    <copyright>Copyright 2025 YOGATE</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 10:52:29 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Dec 2025 10:52:29 +0000</pubDate>
+    <copyright>Copyright 2026 YOGATE</copyright>
+    <lastBuildDate>Thu, 08 Jan 2026 10:39:58 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 10:39:58 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -670,6 +670,24 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_de_respiracion_consciente_y_regulacion_.mp3" length="16481251" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_de_respiracion_consciente_y_regulacion_.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_de_respiracion_consciente_y_regulacion_.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para elegir estar presente un año más]]></title>
+      <description><![CDATA[Cuando nos ponemos los propósitos de un nuevo año, pensamos que ser mejores personas implica exigirnos más o tener mayor productividad. Pero quizá este año puedas ver esa invitación de otra manera. 
+
+Esta meditación es para elegir estar presente un año más sosteniéndote desde un valor elegido para que sea guía en tu crecimiento y sepas vivir cada experiencia presentada desde la consciencia de saber cómo quieres sentirla. 
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Gracias por apoyar este contenido y compartirlo.
+
+
+#martazenner #habitatuser #yogate #meditacionsemanal #meditaciononline #meditardesdecasa #meditacion #aprendeameditar #añonuevo #objetivos #propositos #consciencia #vivirconsciente #vidaplena #sertu #bienestar #2026 #sertumismo #tranquilidad #vivirenpaz #meditacionguiada #aprendeameditar]]></description>
+      <pubDate>Thu, 08 Jan 2026 11:39:56 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=FCNAADHKym4</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_elegir_estar_presente_un_ano_mas.mp3" length="20581431" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_elegir_estar_presente_un_ano_mas.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_elegir_estar_presente_un_ano_mas.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
