@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://yogate.es/Podcast/feed_ivoox.xml" rel="self" type="application/rss+xml" />
-    <link>https://yogate.es</link>
+    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/YogateMartaZenner/yogateupload</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Thu, 08 Jan 2026 10:39:58 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jan 2026 10:39:58 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 20:18:04 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 20:18:04 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -22,7 +22,7 @@
     <image>
       <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg</url>
       <title><![CDATA[YOGATE - Meditaciones]]></title>
-      <link>https://yogate.es</link>
+      <link>https://github.com/YogateMartaZenner/yogateupload</link>
     </image>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Spirituality" />
