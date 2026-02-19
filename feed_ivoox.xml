@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 16:48:33 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Feb 2026 16:48:33 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 17:55:37 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 17:55:37 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -711,6 +711,30 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_la_amabilidad_comienza_en_mi.mp3" length="20289277" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_la_amabilidad_comienza_en_mi.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_la_amabilidad_comienza_en_mi.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación 'La gratitud como foco para el día de hoy']]></title>
+      <description><![CDATA[A lo largo del día existen muchos momentos por los que estar agradecidos. Algunos extraordinarios y que nos llaman la atención, pero otros muchos suceden en lo cotidiano sin reparar en ellos. 
+
+Esta meditación es una invitación a ser consciente de todos ellos y agradecer en el momento en el que se están viviendo para mirar tu jornada con otra perspectiva que te ayude a entender que, a pesar de días intensos, hay pequeños instantes que te sostienen. 
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+
+
+#yogate #habitatuser #agradecimiento #agradecer #gracias #consciencia #vivirconsciente #martazenner #meditacionesdeyogate #pausadeldia #mindfulness #meditacionguiada #meditaciononline #meditaciongratis #respirar #meditar 
+
+
+]]></description>
+      <pubDate>Thu, 19 Feb 2026 18:55:35 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=ZgNKvuqtJ5s</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_la_gratitud_como_foco_para_el_dia_de_ho.mp3" length="17759579" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_la_gratitud_como_foco_para_el_dia_de_ho.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_la_gratitud_como_foco_para_el_dia_de_ho.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
