@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[YOGATE - Meditaciones]]></title>
-    <atom:link href="https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/feed_ivoox.xml" rel="self" type="application/rss+xml" />
-    <link>https://github.com/YogateMartaZenner/yogateupload</link>
+    <atom:link href="https://yogate.es/Podcast/feed_ivoox.xml" rel="self" type="application/rss+xml" />
+    <link>https://yogate.es</link>
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 20:18:04 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Feb 2026 20:18:04 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 16:48:33 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 16:48:33 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -22,7 +22,7 @@
     <image>
       <url>https://raw.githubusercontent.com/YogateMartaZenner/yogateupload/main/logo.jpeg</url>
       <title><![CDATA[YOGATE - Meditaciones]]></title>
-      <link>https://github.com/YogateMartaZenner/yogateupload</link>
+      <link>https://yogate.es</link>
     </image>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Spirituality" />
@@ -688,6 +688,29 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_para_elegir_estar_presente_un_ano_mas.mp3" length="20581431" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_elegir_estar_presente_un_ano_mas.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_elegir_estar_presente_un_ano_mas.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación 'La amabilidad comienza en mí']]></title>
+      <description><![CDATA[¿Te has preguntado alguna vez si, de verdad, eres amable contigo y con los demás?
+
+El trabajo de la amabilidad hace que, tanto las respuestas que obtenemos de nosotros mismos, como la de los demás, se mantengan en una línea mucho más comprensible y cariñosa que nos beneficia a la hora de actuar. 
+
+Por eso, hoy ofrecemos una meditación para trabajar la amabilidad de una forma interna, con la que tratarte con más amor, para trasladarla a tus relaciones con las demás personas y sostener una empatía con la que tener una paz en ambas direcciones.
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+
+
+#yogate #meditacion #meditaciononline #meditacionguiada #meditacionenyoutube #canaldeyoutube #spotify #ivoox #martazenner #amabilidad #amable #amorpropio #vivirconsciente #mindfulness #meditar #meditacionencasa #meditaciongratis #amarte]]></description>
+      <pubDate>Thu, 19 Feb 2026 17:48:31 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=zH4kZAveMYo</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_la_amabilidad_comienza_en_mi.mp3" length="20289277" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_la_amabilidad_comienza_en_mi.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_la_amabilidad_comienza_en_mi.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
