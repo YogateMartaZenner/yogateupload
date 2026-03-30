@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 17:55:37 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Feb 2026 17:55:37 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 12:57:27 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 12:57:27 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -735,6 +735,30 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_la_gratitud_como_foco_para_el_dia_de_ho.mp3" length="17759579" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_la_gratitud_como_foco_para_el_dia_de_ho.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_la_gratitud_como_foco_para_el_dia_de_ho.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación 'El refugio del silencio para retomar']]></title>
+      <description><![CDATA[Meditación para esos días donde necesites parar a retomar una visión clara desde otra perspectiva mental. 
+
+Adentrarte en el refugio del silencio interior para volver a equilibrar tu energía y ralentizar la vorágine de pensamientos que te bloquea y no te deja actuar con una finalidad clara a una acción concreta. 
+
+Una meditación pensada para que vuelvas a encontrar el foco alejando el ruido mental que nos agota para realizar nuestro día. 
+
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+
+
+#yogate #habitatuser #silenciointerno #parar #refugio #silencio #consciencia #vivirconsciente #martazenner #meditacionesdeyogate #pausadeldia #mindfulness #meditacionguiada #meditaciononline #meditaciongratis #respirar #meditar]]></description>
+      <pubDate>Mon, 30 Mar 2026 14:57:25 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=F4XUk-DsE7M</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_el_refugio_del_silencio_para_retomar.mp3" length="26582489" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_el_refugio_del_silencio_para_retomar.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_el_refugio_del_silencio_para_retomar.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
