@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Mon, 30 Mar 2026 12:57:27 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Mar 2026 12:57:27 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:41:34 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 12:41:34 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -759,6 +759,24 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_el_refugio_del_silencio_para_retomar.mp3" length="26582489" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_el_refugio_del_silencio_para_retomar.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_el_refugio_del_silencio_para_retomar.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para encontrar el ancla a tu presente]]></title>
+      <description><![CDATA[Escucha esta breve meditación en cualquier momento del día para encontrar el ancla a tu presente y poder continuar desde la consciencia de estar presente, mirando desde la amabilidad y la gratitud. 
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+
+#martazenner #yogate #meditacionencasa #pausadeldia #meditar #pararameditar #respirar #respiracionconsciente #vivirconsciente #consciencia #meditaciononline #meditaciongratuita #gratis #habitatuser #meditacionguiada #aprendeameditar #presente #vivirpresente]]></description>
+      <pubDate>Fri, 10 Apr 2026 14:41:32 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=_k_eUCV8Lwk</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_encontrar_el_ancla_a_tu_presente.mp3" length="18006593" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_encontrar_el_ancla_a_tu_presente.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_encontrar_el_ancla_a_tu_presente.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
