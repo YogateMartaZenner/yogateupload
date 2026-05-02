@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 12:41:34 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Apr 2026 12:41:34 +0000</pubDate>
+    <lastBuildDate>Sat, 02 May 2026 16:28:36 +0000</lastBuildDate>
+    <pubDate>Sat, 02 May 2026 16:28:36 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -777,6 +777,26 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_para_encontrar_el_ancla_a_tu_presente.mp3" length="18006593" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_encontrar_el_ancla_a_tu_presente.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_encontrar_el_ancla_a_tu_presente.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para dejar de boicotearte a ti mismo]]></title>
+      <description><![CDATA[Esta meditación es un espacio para observar con honestidad esos pensamientos con los que te frenas y crear una herramienta que cambie tu perspectiva hacia ello. 
+
+Escúchala y usa su técnica para dejar de ponerte límites desde dentro y empezar a sostenerte con más confianza y claridad. 
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+
+#meditacion #yogate #martazenner #meditaciongratis #meditacionguiada #meditar #aprendeameditar #vivirconsciente #consciencia #habitatuser #meditarencasa #meditaciondediezminutos #boicot #amorpropio]]></description>
+      <pubDate>Sat, 02 May 2026 18:28:34 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=cwobUepD1LM</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_dejar_de_boicotearte_a_ti_mismo.mp3" length="25715432" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_dejar_de_boicotearte_a_ti_mismo.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_dejar_de_boicotearte_a_ti_mismo.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
