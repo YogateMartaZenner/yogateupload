@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Sat, 02 May 2026 16:28:36 +0000</lastBuildDate>
-    <pubDate>Sat, 02 May 2026 16:28:36 +0000</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 09:54:03 +0000</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 09:54:03 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -797,6 +797,26 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_para_dejar_de_boicotearte_a_ti_mismo.mp3" length="25715432" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_dejar_de_boicotearte_a_ti_mismo.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_dejar_de_boicotearte_a_ti_mismo.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para volver al presente con la respiración]]></title>
+      <description><![CDATA[Una meditación creada para enfocar la atención en la respiración y hacer que baje el ruido mental creando una sensación de presencia más plena. 
+
+Usando una sencilla técnica que nos devuelve al presente de forma rápida para momentos en los que necesitamos parar y simplemente volver a sentirnos. 
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+
+#martazenner #yogate #habitatuser #meditacionguiada #respirar #respiracionconsciente #vivirconsciente #pausa #meditar #aprendeameditar #parar #consciencia ]]></description>
+      <pubDate>Thu, 21 May 2026 11:54:01 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=vB4go_suk5g</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_volver_al_presente_con_la_respirac.mp3" length="22756281" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_volver_al_presente_con_la_respirac.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_volver_al_presente_con_la_respirac.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
