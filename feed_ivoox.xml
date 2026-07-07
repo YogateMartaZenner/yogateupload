@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 10:52:16 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 10:52:16 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:21:24 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 11:21:24 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -837,6 +837,27 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_respirar_el_verano_-_coleccion_de_veran.mp3" length="17955811" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_respirar_el_verano_-_coleccion_de_veran.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_respirar_el_verano_-_coleccion_de_veran.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación 'Descansar sin sentir culpa' - Colección de verano 2/8]]></title>
+      <description><![CDATA[Meditación 2 de la colección de verano de Yogate.
+
+Una meditación aprender que descansar también es una práctica. En esta meditación cultivaremos el permiso interno para parar, soltar la exigencia y comprender que el descanso también forma parte del autocuidado.
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+#verano #meditacion #yogate #habitatuser #martazenner #meditaciongratis #bienestar #calma #mindfulness #meditar
+
+]]></description>
+      <pubDate>Tue, 07 Jul 2026 13:21:22 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=Bi23b7EzDdM</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_descansar_sin_sentir_culpa_-_coleccion_.mp3" length="17461783" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_descansar_sin_sentir_culpa_-_coleccion_.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_descansar_sin_sentir_culpa_-_coleccion_.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
