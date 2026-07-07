@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 11:36:51 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 11:36:51 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:09:03 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 12:09:03 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -877,6 +877,47 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_la_belleza_de_lo_sencillo_-_coleccion_d.mp3" length="16026094" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_la_belleza_de_lo_sencillo_-_coleccion_d.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_la_belleza_de_lo_sencillo_-_coleccion_d.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación 'Lo que permanece' - Colección de verano 4/8]]></title>
+      <description><![CDATA[Meditación 4 de la colección de verano de Yogate.
+
+La vida cambia constantemente: los días, las emociones, los pensamientos e incluso nosotros mismos. En esta meditación descubrirás que, en medio de todo ese movimiento, existe un lugar dentro de ti que permanece sereno, observando cada experiencia sin dejar de estar presente.
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+#verano #meditacion #yogate #habitatuser #martazenner #meditaciongratis #bienestar #calma #mindfulness #meditar
+]]></description>
+      <pubDate>Tue, 07 Jul 2026 13:55:39 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=us1ZngAn3pI</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_lo_que_permanece_-_coleccion_de_verano_.mp3" length="18360187" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_lo_que_permanece_-_coleccion_de_verano_.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_lo_que_permanece_-_coleccion_de_verano_.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación 'Lo que permanece' -  Colección de verano 4/8]]></title>
+      <description><![CDATA[Meditación 4 de la colección de verano de Yogate.
+
+La vida cambia constantemente: los días, las emociones, los pensamientos e incluso nosotros mismos. En esta meditación descubrirás que, en medio de todo ese movimiento, existe un lugar dentro de ti que permanece sereno, observando cada experiencia sin dejar de estar presente.
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+#verano #meditacion #yogate #habitatuser #martazenner #meditaciongratis #bienestar #calma #mindfulness #meditar
+
+]]></description>
+      <pubDate>Tue, 07 Jul 2026 14:09:00 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=zDWlPHv3v-4</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_lo_que_permanece_-_coleccion_de_verano_.mp3" length="18360187" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_lo_que_permanece_-_coleccion_de_verano_.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_lo_que_permanece_-_coleccion_de_verano_.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
