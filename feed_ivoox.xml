@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 12:22:23 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 12:22:23 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:46:16 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 12:46:16 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -937,6 +937,26 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_ya_era_suficiente_-_coleccion_de_verano.mp3" length="16048036" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_ya_era_suficiente_-_coleccion_de_verano.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_ya_era_suficiente_-_coleccion_de_verano.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación 'Confiar en la vida' - Colección de verano 6/8]]></title>
+      <description><![CDATA[Meditación 6 de la colección de verano de Yogate.
+
+A veces sentimos que no podremos con lo que tenemos delante, olvidando todo lo que ya hemos sido capaces de superar. Esta meditación es una invitación a mirar el camino recorrido y descubrir que la confianza no nace de saber lo que ocurrirá mañana, sino de reconocer la fortaleza que ya vive en ti.
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+#verano #meditacion #yogate #habitatuser #martazenner #meditaciongratis #bienestar #calma #mindfulness #meditar
+]]></description>
+      <pubDate>Tue, 07 Jul 2026 14:46:14 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=jj472Vtczts</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_confiar_en_la_vida_-_coleccion_de_veran.mp3" length="15545232" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_confiar_en_la_vida_-_coleccion_de_veran.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_confiar_en_la_vida_-_coleccion_de_veran.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
