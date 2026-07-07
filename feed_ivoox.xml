@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Thu, 21 May 2026 09:54:03 +0000</lastBuildDate>
-    <pubDate>Thu, 21 May 2026 09:54:03 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:52:16 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 10:52:16 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -817,6 +817,26 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_para_volver_al_presente_con_la_respirac.mp3" length="22756281" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_volver_al_presente_con_la_respirac.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_volver_al_presente_con_la_respirac.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación 'Respirar el verano' - Colección de verano 1/8]]></title>
+      <description><![CDATA[Meditación 1 de la colección de verano de Yogate.
+
+Una meditación para comenzar el verano para bajar el ritmo. Un espacio para recordar que no necesitas hacer más para sentirte mejor; a veces basta con detenerte, respirar y habitar plenamente el momento presente.
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Pequeños espacios que te permites para continuar.
+
+Gracias por apoyar este contenido y compartirlo.
+
+#verano #meditacion #yogate #habitatuser #martazenner #meditaciongratis #bienestar #calma #mindfulness #meditar
+]]></description>
+      <pubDate>Tue, 07 Jul 2026 12:52:14 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=rCPsR0P4-bI</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_respirar_el_verano_-_coleccion_de_veran.mp3" length="17955811" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_respirar_el_verano_-_coleccion_de_veran.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_respirar_el_verano_-_coleccion_de_veran.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
