@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 13:29:44 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 13:29:44 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:42:03 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 19:42:03 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -995,6 +995,25 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_volver_al_ritmo_-_coleccion_de_verano_8.mp3" length="17859263" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_volver_al_ritmo_-_coleccion_de_verano_8.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_volver_al_ritmo_-_coleccion_de_verano_8.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para crear espacio]]></title>
+      <description><![CDATA[Volvemos con las  meditaciones gratis para que te dediques un pequeño momento a la semana que te haga volver a tu centro. 
+
+🎧Sabemos que reiniciar todo después de verano quizá pueda agobiar, así que en esta ocasión, sólo queremos darte espacio.
+
+Crear una experiencia de alivio y de espacio en el que pasar del “tengo que hacer sitio para todo” a “durante unos minutos no tengo que añadir nada más”.
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Gracias por apoyar este contenido y compartirlo.
+
+#yogate #martazenner #meditaciononline #espacioparati #pausadeldia #meditacionguiada #aprendeameditar #mindfulness ]]></description>
+      <pubDate>Sat, 03 Oct 2026 21:42:01 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=1i5Ap68IE1g</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_crear_espacio.mp3" length="19779576" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_crear_espacio.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_crear_espacio.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
