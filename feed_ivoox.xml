@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 19:42:03 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 19:42:03 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:06:19 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 18:06:19 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -1014,6 +1014,42 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_para_crear_espacio.mp3" length="19779576" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_crear_espacio.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_crear_espacio.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para conocer tus límites]]></title>
+      <description><![CDATA[Una hermosa pausa para empezar a reconocer qué nos hace bien, qué nos sobrepasa y qué necesitamos expresar antes de llegar al agotamiento. 
+
+La intención de este meditación es que encuentres qué partes de tu actitud son las que pueden ayudarte a sanar y estar más en paz con tu alineación cuando pones pequeños límites. 
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Gracias por apoyar este contenido y compartirlo.
+
+#yogate #martazenner #limites #conocetuslimites #limitessanos #escucharse #meditacionguiada #habitatuser #meditar #meditaciongratis
+]]></description>
+      <pubDate>Tue, 13 Oct 2026 19:48:57 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=-Kjfe4lNoRE</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3" length="21496761" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para conocer tus límites]]></title>
+      <description><![CDATA[Una hermosa pausa para empezar a reconocer qué nos hace bien, qué nos sobrepasa y qué necesitamos expresar antes de llegar al agotamiento. 
+
+La intención de este meditación es que encuentres qué partes de tu actitud son las que pueden ayudarte a sanar y estar más en paz con tu alineación cuando pones pequeños límites. 
+
+Suscríbete a nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Gracias por apoyar este contenido y compartirlo.
+
+#yogate #martazenner #limites #conocetuslimites #limitessanos #escucharse #meditacionguiada #habitatuser #meditar #meditaciongratis
+]]></description>
+      <pubDate>Tue, 13 Oct 2026 20:06:17 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=4ybfSO7RhcY</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3" length="21496761" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
