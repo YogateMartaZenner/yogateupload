@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 18:06:19 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Oct 2026 18:06:19 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:24:38 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 16:24:38 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -1050,6 +1050,28 @@ Gracias por apoyar este contenido y compartirlo.
       <enclosure url="https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3" length="21496761" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_conocer_tus_limites.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para darle espacio a la incertidumbre]]></title>
+      <description><![CDATA[No se trata de convencernos de que todo irá bien, ni de eliminar la preocupación por el futuro. Se trata de darnos un pequeño descanso de esa necesidad de tener respuestas, de aceptar que hay cosas que todavía no sabemos y de recordar que podemos seguir adelante sin tenerlo todo resuelto.
+
+🎧 Una meditación enfocada a entender que no necesitamos saber cómo va a salir todo para permitirnos vivir lo que está pasando ahora.
+
+🔗Puedes suscribirte en nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+Gracias por apoyar este contenido y compartirlo.
+
+Respira · Observa · Siente 
+Yogate 
+
+
+
+#yogate  #martazenner #incertidumbre #confianza #gestiondeltiempo  #tiempo  #meditacionguiada  #habitatuser  #meditar  #meditaciongratis ]]></description>
+      <pubDate>Thu, 22 Oct 2026 18:24:36 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=ztI6QPIndkM</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_darle_espacio_a_la_incertidumbre.mp3" length="19217839" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_darle_espacio_a_la_incertidumbre.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_darle_espacio_a_la_incertidumbre.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
