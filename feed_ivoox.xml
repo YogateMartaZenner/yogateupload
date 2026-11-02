@@ -7,8 +7,8 @@
     <description><![CDATA[YOGATE - Meditaciones - Episodios de yoga y bienestar]]></description>
     <language>es</language>
     <copyright>Copyright 2026 YOGATE</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 16:24:38 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 16:24:38 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:11:23 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 14:11:23 +0000</pubDate>
     <managingEditor>martazavila@gmail.com (YOGATE)</managingEditor>
     <webMaster>martazavila@gmail.com (YOGATE)</webMaster>
     <itunes:author><![CDATA[YOGATE]]></itunes:author>
@@ -1072,6 +1072,29 @@ Yogate
       <enclosure url="https://yogate.es/Podcast/meditacion_para_darle_espacio_a_la_incertidumbre.mp3" length="19217839" type="audio/mpeg" />
       <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_darle_espacio_a_la_incertidumbre.mp3</guid>
       <podcast:guid>https://yogate.es/Podcast/meditacion_para_darle_espacio_a_la_incertidumbre.mp3</podcast:guid>
+    </item>
+    <item>
+      <title><![CDATA[Meditación para agradecer y honrar a quien nos dio]]></title>
+      <description><![CDATA[La meditación de hoy es más especial por hacer partícipe a aquella persona que ya no está en tu vida de manera presente pero que sigue formando parte de lo que hoy eres. 
+
+Una práctica para llevarla hacia la presencia de lo que permanece en nosotros y la manera en que seguimos vinculados a las personas que han formado parte de nuestra vida. 
+
+Agradecer y honrar. 
+
+Puedes suscribirte en nuestro canal de YouTube, Spotify o iVoox para recibir meditaciones de manera semanal y encontrar tu pequeña pausa del día. 
+
+
+Gracias por apoyar este contenido y compartirlo.
+
+Respira · Observa · Siente 
+Yogate 
+
+#yogate #martazenner #diadetodoslosantos #agradecer #honrar #meditaciononline #meditaciongratuita #pausadeldia #vivirconsciente #gracias #abrazar #meditacionsemanal #youtube #spotify #ivoox ]]></description>
+      <pubDate>Mon, 02 Nov 2026 15:11:21 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=kUIfYz_ty98</link>
+      <enclosure url="https://yogate.es/Podcast/meditacion_para_agradecer_y_honrar_a_quien_nos_dio.mp3" length="14686325" type="audio/mpeg" />
+      <guid isPermaLink="false">https://yogate.es/Podcast/meditacion_para_agradecer_y_honrar_a_quien_nos_dio.mp3</guid>
+      <podcast:guid>https://yogate.es/Podcast/meditacion_para_agradecer_y_honrar_a_quien_nos_dio.mp3</podcast:guid>
     </item>
   </channel>
 </rss>
